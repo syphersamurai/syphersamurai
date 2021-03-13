@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syphersamurai
 - 👀 I’m interested in web apps (vuejs)
-- 🌱 I’m currently learning firebase| pwa | vuejs
+- 🌱 I’m currently learning firebase | pwa | vuejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
